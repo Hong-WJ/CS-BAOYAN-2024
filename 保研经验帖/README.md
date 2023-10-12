@@ -24,6 +24,7 @@
 * @[For1moc](https://www.zhihu.com/people/si-yu-85-41-4)的[2024届CTF/信安/网安方向计算机保研帖(末九=>复旦)](https://www.zhihu.com/question/537883625/answer/3232678535)
 * @[hollow](https://blog.csdn.net/m0_51507437)的[2023（2024届）计算机保研经验分享（网安向）](https://blog.csdn.net/m0_51507437/article/details/133420369)
 * @[妖魔鬼怪快离开](https://www.zhihu.com/people/pdqke0)的[2023年（2024届）计算机保研经验贴（浙软、同济软、哈工大计算学部）](https://zhuanlan.zhihu.com/p/658963182)
+* @[404NotFound](https://www.zhihu.com/people/404not-found-31-86)的[2023年计算机专业保研经验帖（北大计院、北大软微、同济电院、南大软件所等）](https://zhuanlan.zhihu.com/p/659303117)
 
 ## 2022夏令营总结贴
 
@@ -83,7 +84,6 @@
 * @[反过来想](https://www.zhihu.com/people/111-88-16-78)的[2023-计算机保研经历-南大lamda 中科大 北航 山大](https://zhuanlan.zhihu.com/p/569478861)
 * @[陆壹zero](https://www.zhihu.com/people/jin-shu-zhi-guo-wang)的[2022计算机保研经验贴|厦门大学MAC实验室&浙江大学软件学院|线下夏令营|名场面竟是我自己](https://zhuanlan.zhihu.com/p/570092284)
 * @[白白阿桑](https://www.zhihu.com/people/do-today)的[2022年（2023届）计算机保研经验（北大工学院、清深TBSI、自动化所、计算所、港中文、上交、复旦、南大、北航等）](https://zhuanlan.zhihu.com/p/624744728)
-* @[404NotFound](https://www.zhihu.com/people/404not-found-31-86)的[2023年计算机专业保研经验帖（北大计院、北大软微、同济电院、南大软件所等）](https://zhuanlan.zhihu.com/p/659303117)
 
 ## 2021夏令营总结贴
 
